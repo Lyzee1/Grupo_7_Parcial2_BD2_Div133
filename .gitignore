@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+
+# Credenciales: NUNCA subir el .env real
+.env
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/
